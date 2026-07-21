@@ -8,5 +8,3 @@ Klonoa - Cillow that Willow - https://mkwiiki.org/wiki/Klonoa_(Cillow_that_Willo
 Zenith Dry Bones - KappASA - https://mkwiiki.org/wiki/Zenith_Dry_Bones_(Dry_Bones_Texture)
 Silver - Saiveeon - https://mkwiiki.org/wiki/Silver_the_Hedgehog
 Kaede Akamatsu - Chiller7 - https://mkwiiki.org/wiki/Kaede_Akamatsu
-Shantae - ALE XD - https://mkwiiki.org/wiki/Shantae
-Shadow the Hedgehog - ALE XD - https://mkwiiki.org/wiki/Shadow_the_Hedgehog_(ALE_XD)
